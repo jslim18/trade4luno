@@ -8,7 +8,7 @@ trade4tokenize
 trade4mx
 trade4hata
 
-First Milestone 
+[First Milestone]
 All commands capable to check syntax error. No rubbish intake will have to check and filter off or display error in command appropriately. Eg. Integer quantity and rate must be positive. All these commands are yet to find tune. Commands should be capable to carry -flag parameters like DOS old days so to extract useful information and locate further narrow down result then execute orders
 
 All connections to Luno, Sinegy, Tokenize, MX and HATA must be clearly documented and tidy up code in separate function written in app scripts
@@ -20,7 +20,7 @@ Apps script connected to Telegram are already well written in template with demo
 
 You have to work out code in Apps script to various Exchanges using API for my trade purpose below. Operator controls from Telegram bot, issues command to various Exchanges to complete orders manually or to execute auto-assisted orders accurately in volatile market without the needs to login each and individual portal. Operator should be able to check $status (inclusive set default channel and set default pair), $balance, execute order either $LMT (Limit Order) mode or $INS (Instant Order) mode and able to use $showq (market queue), $showd (market last done price), $showo (MyOrder) and $showtx (MyTransactionHistory). All my preference data can be collected and kept in spreadsheet logs later to determine the average buy/sell rate and display accordingly to operator on demand basis to make better informed decisions 
 
-Last Milestone 
+[Last Milestone]
 The other AI portion is the ability of the bot to queue order between the spread at a preset interval. Only in a specific circumstances trigger where the criterion is the exchange has wide market spread and low liquidity. Tight market spread may not work so effectively, not my interest. That means bot will auto queue to the first position of buy queue or sell queue without human interaction. If position isn't favourable bot will cancel queue order and place it again with another rate say every 5 minutes. Once trade matches successfully then deliver a message to Telegram 
 
 $status
