@@ -4,7 +4,7 @@ Source API LUNO: https://www.luno.com/en/developers/api
 Source API SINEGY: https://exchange.sinegy.com/exchange-documentation/api
 Source API TOKENIZE: https://tokenizemalaysia.com/tokenize-api-introduction
 Source API MX: https://openapi.mx.exchange/index.html
-Source API HATA:
+Source API HATA: https://support.hata.io/support/solutions/articles/150000150817-how-to-create-api-keys-on-hata
 
 
 [First Milestone]
