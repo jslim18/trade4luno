@@ -2,7 +2,7 @@
 
 Source API LUNO: https://www.luno.com/en/developers/api
 Source API SINEGY: https://exchange.sinegy.com/exchange-documentation/api
-Source API TOKENIZE:
+Source API TOKENIZE: https://tokenizemalaysia.com/tokenize-api-introduction
 Source API MX:
 Source API HATA:
 
