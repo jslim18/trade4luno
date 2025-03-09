@@ -1,7 +1,7 @@
 # trade4luno - Luno Engine API
 
 Source API LUNO: https://www.luno.com/en/developers/api
-Source API SINEGY:
+Source API SINEGY: https://exchange.sinegy.com/exchange-documentation/api
 Source API TOKENIZE:
 Source API MX:
 Source API HATA:
