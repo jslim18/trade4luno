@@ -1,12 +1,11 @@
-# trade4luno
-Luno Engine API
+# trade4luno - Luno Engine API
 
+Source API LUNO: https://www.luno.com/en/developers/api
+Source API SINEGY:
+Source API TOKENIZE:
+Source API MX:
+Source API HATA:
 
-trade4luno
-trade4sinegy
-trade4tokenize
-trade4mx
-trade4hata
 
 [First Milestone]
 All commands capable to check syntax error. No rubbish intake will have to check and filter off or display error in command appropriately. Eg. Integer quantity and rate must be positive. All these commands are yet to find tune. Commands should be capable to carry -flag parameters like DOS old days so to extract useful information and locate further narrow down result then execute orders
